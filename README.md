@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://cptmiso.github.io/CptMiso_PortFolio.github.io/](https://cptmiso.github.io/CptMiso_PortFolio.github.io/)
+- 👨‍💻 A part of my projects are available at [https://cptmiso.github.io/CptMiso_PortFolio.github.io/](https://cptmiso.github.io/CptMiso_PortFolio.github.io/)
 
 - ⚡ Fun fact **I'm a fast learner**
 
